@@ -30,7 +30,3 @@
   <a href="https://wa.link/619egi" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="mailto:kelsondesousa99@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
-
-![snake gif](https://github.com/doctorscript/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=doctorscript08&repo=doctorscript08&theme=react)](https://github.com/doctorscript08/doctorscript08)
