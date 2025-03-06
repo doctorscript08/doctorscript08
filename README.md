@@ -1,9 +1,6 @@
 ## Heyyy! Eu sou Kelson de Sousa 😃👨🏿‍💻
 
-- 🔭 Actualmente estou trabalhando com Desenvolvimento Web Fullstack
-- 🌱 Estou a estudar React, PHP, JS, Tailwind CSS. Me aprofundando em cada uma dessas tecnologias e também aprimorando os meus conhecimentos em HTML, CSS e MySQL
-- 👯 Procuro colaborar em projectos Web Fullstack que me permitam evoluir cada vez mais
-- 🤔 Procurando por ajuda na questão de melhorar e optimizar o meu código
+👋 Olá! Sou um Desenvolvedor Web Fullstack Júnior apaixonado por tecnologia. Comecei minha jornada na programação aos 15 anos com WordPress, desenvolvendo um marketplace, e desde os 16 anos estudo profundamente a área. Tenho experiência com HTML, CSS, JavaScript, PHP, React, Tailwind CSS e MySQL. Sempre buscando aprimorar minhas habilidades e aberto para novas oportunidades. Vamos construir algo incrível juntos! 🚀
 
 
 <div>
