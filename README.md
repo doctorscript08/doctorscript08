@@ -1,6 +1,14 @@
-## Heyyy! Eu sou Kelson de Sousa 😃👨🏿‍💻
+## Hey! Eu sou Kelson de Sousa 👨🏿‍💻
 
-👋 Olá! Sou um Desenvolvedor Web Fullstack Júnior apaixonado por tecnologia. Comecei minha jornada na programação aos 15 anos com WordPress, desenvolvendo um marketplace, e desde os 16 anos estudo profundamente a área. Tenho experiência com HTML, CSS, JavaScript, PHP, React, Tailwind CSS e MySQL. Sempre buscando aprimorar minhas habilidades e aberto para novas oportunidades. Vamos construir algo incrível juntos! 🚀
+Sou desenvolvedor backend e co-fundador da CBSP, uma empresa de tecnologia focada em criar soluções digitais para pequenas e médias empresas.
+
+Comecei a programar cedo, aos 15 anos, e desde então venho evoluindo constantemente na área de desenvolvimento de software. Ao longo da minha jornada, ganhei experiência prática em ambientes reais de produção, incluindo uma startup onde trabalhei com desenvolvimento backend e correção de funcionalidades em sistemas web.
+
+Atualmente, o meu foco está no desenvolvimento backend com Node.js, JavaScript e MySQL, além do aprofundamento em arquitetura de sistemas, APIs, DevOps e boas práticas de engenharia de software.
+
+Gosto de construir soluções que resolvem problemas reais e acredito na tecnologia como ferramenta para escalar negócios e ideias.
+
+🚀 Sempre aberto a colaboração, novos desafios e oportunidades.
 
 
 <div>
