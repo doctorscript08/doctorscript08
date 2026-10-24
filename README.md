@@ -7,7 +7,6 @@ CEO at CBSP Solutions 🇦🇴
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=doctorscript08&count_private=true&theme=shadow_red&show_icons=true)](https://github.com/doctorscript08/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doctorscript08&layout=compact&theme=shadow_red">
 </div>
 
 <div style="display: inline_block"><br>
